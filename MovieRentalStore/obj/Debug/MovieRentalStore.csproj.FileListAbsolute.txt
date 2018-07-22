@@ -1,0 +1,156 @@
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\Vidly.dll.config
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\Vidly.dll
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\Vidly.pdb
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\Antlr3.Runtime.dll
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\AutoMapper.dll
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\Elmah.dll
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\EntityFramework.dll
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\Glimpse.Ado.dll
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\Glimpse.AspNet.dll
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\Glimpse.Core.dll
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\Glimpse.EF6.dll
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\Glimpse.Mvc5.dll
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\Microsoft.Owin.dll
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\Microsoft.Owin.Security.dll
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\Newtonsoft.Json.dll
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\Owin.dll
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\System.Net.Http.Formatting.dll
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\System.Web.Helpers.dll
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\System.Web.Http.dll
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\System.Web.Http.WebHost.dll
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\System.Web.Mvc.dll
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\System.Web.Optimization.dll
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\System.Web.Razor.dll
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\System.Web.WebPages.dll
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\WebGrease.dll
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\AutoMapper.xml
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\System.Net.Http.Formatting.xml
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\System.Web.Http.xml
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\System.Web.Http.WebHost.xml
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\System.Web.Helpers.xml
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\System.Web.Mvc.xml
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\System.Web.Optimization.xml
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\System.Web.Razor.xml
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\System.Web.WebPages.xml
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\Antlr3.Runtime.pdb
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\Newtonsoft.Json.xml
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\EntityFramework.xml
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\Microsoft.Owin.xml
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\Microsoft.Owin.Security.xml
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\obj\Debug\Vidly.Migrations.InitialModel.resources
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resources
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\obj\Debug\Vidly.Migrations.AddMembershipType.resources
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName.resources
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\obj\Debug\Vidly.Migrations.AddNameToMembershipType.resources
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\obj\Debug\Vidly.Migrations.SetNameOfMembershipTypes.resources
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\obj\Debug\Vidly.Migrations.AddBirthdateToCustomer.resources
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\obj\Debug\Vidly.Migrations.AddMovie.resources
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\obj\Debug\Vidly.Migrations.Genres.resources
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\obj\Debug\Vidly.Migrations.SeedUsers.resources
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\obj\Debug\Vidly.Migrations.AddDrivingLicenseToApplicationUser.resources
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\obj\Debug\Vidly.Migrations.AddPhoneToApplicationUser.resources
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\obj\Debug\Vidly.Migrations.AddRental.resources
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\obj\Debug\Vidly.Migrations.AddNumberAvailableToMovie.resources
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\obj\Debug\MovieRentalStore.csproj.GenerateResource.Cache
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\obj\Debug\MovieRentalStore.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\obj\Debug\Vidly.dll
+C:\Users\User\source\repos\24-05-18\Test\15-07-18 Movie Rental (Name change)\MovieRentalStore\MovieRentalStore\obj\Debug\Vidly.pdb
+E:\MovieRentalStore\MovieRentalStore\bin\Vidly.dll.config
+E:\MovieRentalStore\MovieRentalStore\bin\Vidly.dll
+E:\MovieRentalStore\MovieRentalStore\bin\Vidly.pdb
+E:\MovieRentalStore\MovieRentalStore\bin\Antlr3.Runtime.dll
+E:\MovieRentalStore\MovieRentalStore\bin\AutoMapper.dll
+E:\MovieRentalStore\MovieRentalStore\bin\Elmah.dll
+E:\MovieRentalStore\MovieRentalStore\bin\EntityFramework.dll
+E:\MovieRentalStore\MovieRentalStore\bin\EntityFramework.SqlServer.dll
+E:\MovieRentalStore\MovieRentalStore\bin\Glimpse.Ado.dll
+E:\MovieRentalStore\MovieRentalStore\bin\Glimpse.AspNet.dll
+E:\MovieRentalStore\MovieRentalStore\bin\Glimpse.Core.dll
+E:\MovieRentalStore\MovieRentalStore\bin\Glimpse.EF6.dll
+E:\MovieRentalStore\MovieRentalStore\bin\Glimpse.Mvc5.dll
+E:\MovieRentalStore\MovieRentalStore\bin\Microsoft.AspNet.Identity.Core.dll
+E:\MovieRentalStore\MovieRentalStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\MovieRentalStore\MovieRentalStore\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\MovieRentalStore\MovieRentalStore\bin\Microsoft.Owin.dll
+E:\MovieRentalStore\MovieRentalStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\MovieRentalStore\MovieRentalStore\bin\Microsoft.Owin.Security.Cookies.dll
+E:\MovieRentalStore\MovieRentalStore\bin\Microsoft.Owin.Security.dll
+E:\MovieRentalStore\MovieRentalStore\bin\Microsoft.Owin.Security.Facebook.dll
+E:\MovieRentalStore\MovieRentalStore\bin\Microsoft.Owin.Security.Google.dll
+E:\MovieRentalStore\MovieRentalStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\MovieRentalStore\MovieRentalStore\bin\Microsoft.Owin.Security.OAuth.dll
+E:\MovieRentalStore\MovieRentalStore\bin\Microsoft.Owin.Security.Twitter.dll
+E:\MovieRentalStore\MovieRentalStore\bin\Microsoft.Web.Infrastructure.dll
+E:\MovieRentalStore\MovieRentalStore\bin\Newtonsoft.Json.dll
+E:\MovieRentalStore\MovieRentalStore\bin\Owin.dll
+E:\MovieRentalStore\MovieRentalStore\bin\System.Net.Http.Formatting.dll
+E:\MovieRentalStore\MovieRentalStore\bin\System.Web.Helpers.dll
+E:\MovieRentalStore\MovieRentalStore\bin\System.Web.Http.dll
+E:\MovieRentalStore\MovieRentalStore\bin\System.Web.Http.WebHost.dll
+E:\MovieRentalStore\MovieRentalStore\bin\System.Web.Mvc.dll
+E:\MovieRentalStore\MovieRentalStore\bin\System.Web.Optimization.dll
+E:\MovieRentalStore\MovieRentalStore\bin\System.Web.Razor.dll
+E:\MovieRentalStore\MovieRentalStore\bin\System.Web.WebPages.Deployment.dll
+E:\MovieRentalStore\MovieRentalStore\bin\System.Web.WebPages.dll
+E:\MovieRentalStore\MovieRentalStore\bin\System.Web.WebPages.Razor.dll
+E:\MovieRentalStore\MovieRentalStore\bin\WebGrease.dll
+E:\MovieRentalStore\MovieRentalStore\bin\AutoMapper.xml
+E:\MovieRentalStore\MovieRentalStore\bin\System.Net.Http.Formatting.xml
+E:\MovieRentalStore\MovieRentalStore\bin\System.Web.Http.xml
+E:\MovieRentalStore\MovieRentalStore\bin\System.Web.Http.WebHost.xml
+E:\MovieRentalStore\MovieRentalStore\bin\System.Web.Helpers.xml
+E:\MovieRentalStore\MovieRentalStore\bin\System.Web.Mvc.xml
+E:\MovieRentalStore\MovieRentalStore\bin\System.Web.Optimization.xml
+E:\MovieRentalStore\MovieRentalStore\bin\System.Web.Razor.xml
+E:\MovieRentalStore\MovieRentalStore\bin\System.Web.WebPages.xml
+E:\MovieRentalStore\MovieRentalStore\bin\System.Web.WebPages.Deployment.xml
+E:\MovieRentalStore\MovieRentalStore\bin\System.Web.WebPages.Razor.xml
+E:\MovieRentalStore\MovieRentalStore\bin\Antlr3.Runtime.pdb
+E:\MovieRentalStore\MovieRentalStore\bin\Newtonsoft.Json.xml
+E:\MovieRentalStore\MovieRentalStore\bin\EntityFramework.xml
+E:\MovieRentalStore\MovieRentalStore\bin\EntityFramework.SqlServer.xml
+E:\MovieRentalStore\MovieRentalStore\bin\Microsoft.AspNet.Identity.Core.xml
+E:\MovieRentalStore\MovieRentalStore\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\MovieRentalStore\MovieRentalStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\MovieRentalStore\MovieRentalStore\bin\Microsoft.Owin.xml
+E:\MovieRentalStore\MovieRentalStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\MovieRentalStore\MovieRentalStore\bin\Microsoft.Owin.Security.xml
+E:\MovieRentalStore\MovieRentalStore\bin\Microsoft.Owin.Security.Facebook.xml
+E:\MovieRentalStore\MovieRentalStore\bin\Microsoft.Owin.Security.Cookies.xml
+E:\MovieRentalStore\MovieRentalStore\bin\Microsoft.Owin.Security.OAuth.xml
+E:\MovieRentalStore\MovieRentalStore\bin\Microsoft.Owin.Security.Google.xml
+E:\MovieRentalStore\MovieRentalStore\bin\Microsoft.Owin.Security.Twitter.xml
+E:\MovieRentalStore\MovieRentalStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\MovieRentalStore\MovieRentalStore\obj\Debug\MovieRentalStore.csproj.GenerateResource.Cache
+E:\MovieRentalStore\MovieRentalStore\obj\Debug\MovieRentalStore.csproj.CoreCompileInputs.cache
+E:\MovieRentalStore\MovieRentalStore\obj\Debug\Vidly.dll
+E:\MovieRentalStore\MovieRentalStore\obj\Debug\Vidly.pdb
+E:\MovieRentalStore\MovieRentalStore\obj\Debug\Vidly.Migrations.changeDB.resources
